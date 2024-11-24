@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.main_content{
+    margin-top: 70px;
+}
+.main_content input{
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.button{
+    font-size: 25px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    
+}
+#operator{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+}
